@@ -21,11 +21,11 @@
       },
       {
         "package": "NetworkImage",
-        "repositoryURL": "https://github.com/gonzalezreal/NetworkImage",
+        "repositoryURL": "https://github.com/oncallhealth/NetworkImage",
         "state": {
-          "branch": null,
-          "revision": "15582b821cb097012b41b83d6219717926ec4ed6",
-          "version": "2.1.0"
+          "branch": "db/test",
+          "revision": "d6b9734045b885fac18eba8412e504cc14fecb4d",
+          "version": null
         }
       },
       {

@@ -29,8 +29,8 @@ let package = Package(
         ),
         .package(
             name: "NetworkImage",
-            url: "https://github.com/gonzalezreal/NetworkImage",
-            .exact("2.1.0")
+            url: "https://github.com/oncallhealth/NetworkImage",
+            .branch("db/test")
         ),
         .package(url: "https://github.com/DomenicBianchi01/combine-schedulers", .branch("db/test")),
         .package(
