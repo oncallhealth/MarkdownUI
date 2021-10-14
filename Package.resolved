@@ -12,11 +12,11 @@
       },
       {
         "package": "combine-schedulers",
-        "repositoryURL": "https://github.com/pointfreeco/combine-schedulers",
+        "repositoryURL": "https://github.com/DomenicBianchi01/combine-schedulers",
         "state": {
-          "branch": null,
-          "revision": "6dcc7c034d28fe7ac652453faeae07656f723909",
-          "version": "0.5.1"
+          "branch": "db/test",
+          "revision": "621ecd10781d44b3e7851cb8e5bf72dab91cd1bf",
+          "version": null
         }
       },
       {
