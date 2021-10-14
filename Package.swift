@@ -32,7 +32,7 @@ let package = Package(
             url: "https://github.com/gonzalezreal/NetworkImage",
             .exact("2.1.0")
         ),
-        .package(url: "https://github.com/pointfreeco/combine-schedulers", .exact("0.1.2")),
+        .package(url: "https://github.com/pointfreeco/combine-schedulers", .exact("0.5.1")),
         .package(
             name: "SnapshotTesting",
             url: "https://github.com/pointfreeco/swift-snapshot-testing",
