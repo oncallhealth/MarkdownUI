@@ -20,23 +20,23 @@ let package = Package(
         .package(
             name: "SwiftCommonMark",
             url: "https://github.com/gonzalezreal/SwiftCommonMark",
-            from: "0.1.0"
+            .exact("0.1.0")
         ),
         .package(
             name: "AttributedText",
             url: "https://github.com/gonzalezreal/AttributedText",
-            from: "0.3.0"
+            .exact("0.3.0")
         ),
         .package(
             name: "NetworkImage",
             url: "https://github.com/gonzalezreal/NetworkImage",
-            from: "2.1.0"
+            .exact("2.1.0")
         ),
-        .package(url: "https://github.com/pointfreeco/combine-schedulers", from: "0.1.2"),
+        .package(url: "https://github.com/pointfreeco/combine-schedulers", .exact("0.1.2")),
         .package(
             name: "SnapshotTesting",
             url: "https://github.com/pointfreeco/swift-snapshot-testing",
-            from: "1.8.2"
+            .exact("1.8.2")
         ),
     ],
     targets: [
